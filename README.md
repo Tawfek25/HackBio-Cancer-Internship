@@ -21,5 +21,6 @@ One area where molecular docking is particularly useful is in developing drugs t
 
 A prime example of the impact of molecular docking in cancer treatment is the development of Imatinib (Gleevec) for Chronic Myeloid Leukemia (CML). CML is caused by the BCR-ABL fusion protein, an enzyme that remains constantly active and leads to the uncontrolled proliferation of white blood cells. Using docking simulations, researchers identified Imatinib as a molecule capable of binding to the active site of BCR-ABL, effectively blocking its activity. This discovery was a turning point in the treatment of CML, as Imatinib was one of the first drugs designed to target a specific molecular abnormality in cancer cells. Its success marked the beginning of a new era in cancer treatment, where therapies are designed based on a deep understanding of the molecular mechanisms driving the disease.
 
-Conclusion
+# Conclusion
+
 Molecular docking has become an essential tool in the search for new cancer therapies. By enabling scientists to predict how potential drugs will interact with their targets, it speeds up the drug discovery process and increases the likelihood of finding effective treatments. The development of Imatinib is a testament to the power of this approach, demonstrating how a well-targeted drug can dramatically improve outcomes for patients. As the field of drug discovery continues to evolve, molecular docking will remain a crucial component in the development of new and more effective cancer treatments.
