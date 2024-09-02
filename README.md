@@ -24,3 +24,17 @@ A prime example of the impact of molecular docking in cancer treatment is the de
 ## Conclusion ##
 
 Molecular docking has become an essential tool in the search for new cancer therapies. By enabling scientists to predict how potential drugs will interact with their targets, it speeds up the drug discovery process and increases the likelihood of finding effective treatments. The development of Imatinib is a testament to the power of this approach, demonstrating how a well-targeted drug can dramatically improve outcomes for patients. As the field of drug discovery continues to evolve, molecular docking will remain a crucial component in the development of new and more effective cancer treatments.
+
+## Reference ##
+
+Molecular Docking in Drug Discovery
+   - Pagadala, N. S., Syed, K., & Tuszynski, J. (2017). Software for molecular docking: a review. Biophysical Reviews, 9(2), 91-102
+   - https://link.springer.com/article/10.1007/s12551-016-0247-1
+
+   - Imatinib and Chronic Myeloid Leukemia:
+   - Druker, B. J., Talpaz, M., Resta, D. J., Peng, B., Buchdunger, E., Ford, J. M., ... & Sawyers, C. L. (2001). Efficacy and safety of a specific inhibitor of the BCR-ABL tyrosine kinase in chronic myeloid leukemia. New England Journal of Medicine, 344(14), 1031-1037.
+   - https://www.nejm.org/doi/full/10.1056/NEJM200104053441402
+
+   - General Cancer Drug Discovery and Kinase Inhibitors:
+   - Cohen, P. (2002). Protein kinases—the major drug targets of the twenty-first century? Nature Reviews Drug Discovery*, 1(4), 309-315.
+   - https://www.nature.com/articles/nrd773
