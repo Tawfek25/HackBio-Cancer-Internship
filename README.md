@@ -4,7 +4,6 @@
 
 ## Author (@Slack): ##
 Tawfek Ahmed Tawfek (@Tawfekahmed25)
-Wale Joseph (@wale)
 
 
 Molecular docking is a key technique in the discovery of new drugs, especially for treating cancer. This method involves using computer simulations to predict how a small molecule, such as a drug candidate, might fit into a specific area of a protein. By modeling this interaction, researchers can determine how strongly the molecule binds to the protein and assess its potential effectiveness as a drug.
